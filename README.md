@@ -13,7 +13,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web<br/> Buscando mi próximo de
 <a href="https://soyaurelio.dev"><img src="https://img.shields.io/badge/Portafolio-soyaurelio.dev-000000?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/marco-antonio-sinchi-rojas-70bb33398/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:marcoantoniosbr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://soyaurelio.dev/?cv"><img src="https://img.shields.io/badge/CV-Descargar-000000?style=for-the-badge" /></a>
+<a href="https://soyaurelio.dev/#cv"><img src="https://img.shields.io/badge/CV-Descargar-000000?style=for-the-badge" /></a>
 
 </div>
 
